@@ -4,3 +4,4 @@ A list of entries where I explain what I have learnt that day. The entries are c
 ### Network and security arch
 - 23 June 2023: [DNS exfiltration](dns_exfiltration.md)
 - 24 June 2023: [TCP botnet analysis](tcp_forensics.md)
+- 25 June 2023: [NMap deep dive](nmap_deep_dive.md)
